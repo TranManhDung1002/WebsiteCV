@@ -8,8 +8,7 @@ import {FooterComponent} from './Layouts/footer/footer.component';
 
 import {NavComponent} from './Layouts/nav/nav.component';
 import {HomePageComponent} from './Components/home-page/home-page.component';
-import {FilterComponent} from './Layouts/filter/filter.component';
-import {AdvertisementComponent} from './Layouts/advertisement/advertisement.component';
+
 
 import {FontAwesomeModule} from '@fortawesome/angular-fontawesome';
 import {ApplyjobComponent} from './Components/applyjob-component/applyjob.component';
@@ -51,8 +50,7 @@ import {DashboardComponent} from './admin/dashboard/dashboard.component';
     FooterComponent,
     NavComponent,
     HomePageComponent,
-    FilterComponent,
-    AdvertisementComponent,
+
     ApplyjobComponent,
     AboutComponent,
     TopcvComponentComponent,
